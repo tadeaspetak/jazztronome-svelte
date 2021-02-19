@@ -1,0 +1,26 @@
+{
+  "measures": {
+    "four": "HLLL",
+    "five": "HLLLL",
+    "six": "HLLHLL"
+  },
+  "groups": {
+    "verse": [
+        ["five", 1],
+        ["six", 1],
+        ["four", 1],
+        ["six", 1],
+        ["four", 1],
+        ["six", 1],
+        ["four", 1],
+        ["five", 1]
+    ]
+  },
+  "track": {
+    "name": "Smula",
+    "groups": [
+      ["verse", 1]
+    ],
+    "tempo": 130
+  }
+}

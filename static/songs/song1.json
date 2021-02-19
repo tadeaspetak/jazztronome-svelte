@@ -1,0 +1,31 @@
+{
+  "measures": {
+    "three": "HLLHLLHLL",
+    "four": "HLHL",
+    "seven": "HLLHLHL",
+    "eight": "HLLHLLHL"
+  },
+  "groups": {
+    "verse": [
+        ["eight", 2]
+    ],
+    "chorus": [
+        ["three", 1],
+        ["four", 1],
+        ["eight", 1]
+    ],
+    "bridge": [
+      ["three", 1],
+      ["eight", 1]
+    ]
+  },
+  "track": {
+    "name": "Sunshine",
+    "groups": [
+      ["verse", 1],
+      ["chorus", 2],
+      ["bridge", 1]
+    ],
+    "tempo": 180
+  }
+}
